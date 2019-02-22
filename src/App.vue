@@ -3,7 +3,7 @@
     <v-toolbar app>
       <div class="ml-5 hidden-sm-and-down"></div>
       <div class="ml-2 hidden-md-and-down"></div>
-      <v-toolbar-title class="display-1">Mattew Murphy</v-toolbar-title>
+      <v-toolbar-title class="display-1">mattew murphy</v-toolbar-title>
         <v-spacer></v-spacer>
         <v-toolbar-items class="hidden-sm-and-down mr-5">
           <v-btn flat class="buttonOpt">Cars</v-btn>
