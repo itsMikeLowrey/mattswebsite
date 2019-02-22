@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-toolbar app>
+    <!-- <v-toolbar app>
       <div class="ml-5 hidden-sm-and-down"></div>
       <div class="ml-2 hidden-md-and-down"></div>
       <v-toolbar-title class="display-1">Matthew Murphy</v-toolbar-title>
@@ -10,7 +10,7 @@
           <v-btn flat class="buttonOpt">Motorcycles</v-btn>
           <v-btn flat class="buttonOpt">Space Talk</v-btn>
         </v-toolbar-items>
-    </v-toolbar>
+    </v-toolbar> -->
 
     <v-content>
       <router-view/>
