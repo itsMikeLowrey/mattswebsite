@@ -1,12 +1,14 @@
 <template>
   <v-app>
     <v-toolbar app>
-      <v-toolbar-title>Matt Murphy</v-toolbar-title>
+      <div class="ml-5 hidden-sm-and-down"></div>
+      <div class="ml-2 hidden-md-and-down"></div>
+      <v-toolbar-title class="display-1">Mattew Murphy</v-toolbar-title>
         <v-spacer></v-spacer>
-        <v-toolbar-items class="hidden-sm-and-down">
-          <v-btn flat>Cars</v-btn>
-          <v-btn flat>motorcycles</v-btn>
-          <v-btn flat>Space Talk</v-btn>
+        <v-toolbar-items class="hidden-sm-and-down mr-5">
+          <v-btn flat class="buttonOpt">Cars</v-btn>
+          <v-btn flat class="buttonOpt">Motorcycles</v-btn>
+          <v-btn flat class="buttonOpt">Space Talk</v-btn>
         </v-toolbar-items>
     </v-toolbar>
 
@@ -29,3 +31,11 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+
+.buttonOpt {
+  color:  black;
+  font-size: 1.4rem;
+}
+</style>
