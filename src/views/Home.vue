@@ -29,10 +29,8 @@ export default {
 .back {
   /* The image used */
   background-image: url('~@/assets/websiteBackground.jpg');
-
   /* Full height */
   height: 100%;
-
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
