@@ -2,15 +2,14 @@
 <div class="back">
   <v-flex class="hidden-sm-and-down intro" xs12 style="position:relative;height:100vh;">
            <v-flex class="title toolbar" xs12>
-           <div class="display-1 white--text text-xs-center " >
+           <div class="display-1 white--text text-xs-left pl-5 ml-5 pt-3 " >
              Matthew Murphy
            </div>
            </v-flex>
            <v-flex class="buttons toolbar" xs12>
-             <div class="text-xs-center">
-
-               <v-btn flat class="buttonOpt">Cars</v-btn>
-               <v-btn flat class="buttonOpt">Space Talk</v-btn>
+             <div class="text-xs-left pl-5 ml-5 pt-3 ">
+               <!-- <v-btn flat class="buttonOpt">Cars</v-btn>
+               <v-btn flat class="buttonOpt">Space Talk</v-btn> -->
                <v-btn flat class="buttonOpt"><router-link to="/all">All Post</router-link></v-btn>
              </div>
            </v-flex>
