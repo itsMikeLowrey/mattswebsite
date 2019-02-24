@@ -28,7 +28,7 @@ export default {
 
 .back {
   /* The image used */
-  background-image: url("https://images.pexels.com/photos/1388278/pexels-photo-1388278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-image: url('~@/assets/websiteBackground.jpg');
 
   /* Full height */
   height: 100%;
