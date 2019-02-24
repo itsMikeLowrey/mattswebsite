@@ -1,6 +1,6 @@
 <template>
 <div class="back">
-  <v-flex class="hidden-sm-and-down intro" xs12 style="position:relative;height:101vh;">
+  <v-flex class="hidden-sm-and-down intro" xs12 style="position:relative;height:100vh;">
            <v-flex class="title" xs8 offset-xs2 pa-4>
            <div class="display-4 white--text text-xs-center " >
              Matthew Murphy
